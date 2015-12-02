@@ -1,2 +1,2 @@
 hello world 1234 helloword 12
-nihao
+Creating a new branch is quick & simple
